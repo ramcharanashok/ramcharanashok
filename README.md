@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramcharanashok
+- 👋 Hi, I’m @ramcharan
 - 👀 I’m interested in Data analyst
 - 🌱 I’m currently learning SQL, Python, Powerbi
 - 💞️ I’m looking to collaborate on SQL projects, Powerbi dashboard
